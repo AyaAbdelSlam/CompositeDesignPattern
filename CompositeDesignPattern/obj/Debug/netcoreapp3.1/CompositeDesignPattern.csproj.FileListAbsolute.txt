@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.exe
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\ahemaid\source\repos\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
